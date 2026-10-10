@@ -12,6 +12,10 @@ import tempfile
 from datetime import date, datetime, timezone
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
+import truststore
+
+# Use the operating system's trusted certificate store.
+truststore.inject_into_ssl()
 
 import requests
 from bs4 import BeautifulSoup
