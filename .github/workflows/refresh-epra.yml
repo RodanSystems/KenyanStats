@@ -1,5 +1,5 @@
 
-name: Refresh EPRA data and deploy
+name: Refresh EPRA Data
 
 on:
   schedule:
@@ -8,27 +8,16 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: false
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
 
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
     steps:
-      - name: Checkout main
+      - name: Checkout repository
         uses: actions/checkout@v5
         with:
           ref: main
-          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -41,41 +30,27 @@ jobs:
         run: |
           python -m pip install -r kenyan-stats/requirements.txt
 
-      - name: Run importer tests
+      - name: Test EPRA importer
         run: |
           python -m unittest discover -s kenyan-stats/tests -v
 
-      - name: Refresh EPRA prices
-        shell: bash
+      - name: Update fuel prices
         run: |
           if python kenyan-stats/scripts/update_data.py; then
-            echo "EPRA import succeeded."
+            echo "EPRA refresh completed."
           else
-            echo "::warning::EPRA update failed. Retaining existing verified data."
+            echo "::warning::EPRA update unavailable. Keeping old data."
           fi
 
-      - name: Commit updated dataset
-        shell: bash
+      - name: Commit verified data
         run: |
           if git diff --quiet -- kenyan-stats/site/data/fuel-prices.json; then
-            echo "Dataset unchanged."
+            echo "No changes detected."
           else
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
             git add kenyan-stats/site/data/fuel-prices.json
-            git commit -m "Update verified EPRA fuel prices"
+            git commit -m "Update EPRA fuel prices"
             git push origin HEAD:main
           fi
-
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v6
-
-      - name: Upload website
-        uses: actions/upload-pages-artifact@v5
-        with:
-          path: kenyan-stats/site
-
-      - name: Deploy website
-        id: deployment
-        uses: actions/deploy-pages@v5
