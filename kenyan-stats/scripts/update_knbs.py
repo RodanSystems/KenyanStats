@@ -3,6 +3,7 @@
 Primary: KNBS report listing. Fallback: official KNBS CPI Explorer.
 Never disables TLS verification and never overwrites contradictory historic data.
 """
+
 import argparse
 import json
 import os
@@ -14,6 +15,7 @@ from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parents[1]
 LISTING = 'https://www.knbs.or.ke/reports_category/cpi-and-inflation-rates/'
@@ -158,7 +160,7 @@ def main():
         except (requests.RequestException, ValueError) as err:
             print(f'KNBS report feed unavailable: {err}; trying official CPI Explorer')
             try:
-                observation = parse_explorer(fetch_html(session, EXPLORER))
+                observation = parse_explorer(fetch_explorer_rendered())
                 print('KNBS CPI Explorer fallback verified')
             except (requests.RequestException, ValueError) as fallback_err:
                 raise RuntimeError('Neither official KNBS HTTPS feed is usable. '
@@ -183,4 +185,38 @@ def main():
 
 
 if __name__ == '__main__':
+  
+def fetch_explorer_rendered():
+    """Read the official CPI Explorer after JavaScript renders."""
+    with sync_playwright() as playwright:
+        browser = playwright.chromium.launch(headless=True)
+
+        try:
+            page = browser.new_page(
+                viewport={"width": 1366, "height": 900}
+            )
+
+            page.goto(
+                EXPLORER,
+                wait_until="domcontentloaded",
+                timeout=45000
+            )
+
+            page.get_by_text(
+                "Inflation (YoY)",
+                exact=True
+            ).first.wait_for(timeout=30000)
+
+            page.wait_for_timeout(1500)
+
+            text = page.locator("body").inner_text()
+
+            print(
+                "CPI Explorer rendered text length:",
+                len(text)
+            )
+
+            return text
+        finally:
+            browser.close()
     main()
