@@ -1,8 +1,9 @@
+
 name: Refresh KNBS Inflation
 
 on:
   schedule:
-    - cron: '42 6 * * *' # 09:42 EAT daily; KNBS reports usually publish near month-end
+    - cron: '42 6 * * *'
   workflow_dispatch:
 
 permissions:
@@ -11,63 +12,45 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout main
         uses: actions/checkout@v5
         with:
           ref: main
+
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
           python-version: '3.12'
           cache: pip
           cache-dependency-path: kenyan-stats/requirements.txt
+
       - name: Install dependencies
-      
-      - name: Install Chromium for CPI Explorer
-        run: python -m playwright install --with-deps chromium
-
-        run: python -m pip install -r kenyan-stats/requirements.txt
-        
-      - name: Diagnose KNBS HTTPS certificate
-        shell: bash
         run: |
-          echo "Checking KNBS TLS certificate chain"
+          python -m pip install -r kenyan-stats/requirements.txt
 
-          echo | openssl s_client \
-            -connect www.knbs.or.ke:443 \
-            -servername www.knbs.or.ke \
-            -verify_return_error \
-            -brief 2>&1 || true
+      - name: Install Chromium for CPI Explorer
+        run: |
+          python -m playwright install --with-deps chromium
 
-          python - <<'PY'
-          import requests
-          import truststore
-
-          truststore.inject_into_ssl()
-
-          for host in ["www.knbs.or.ke", "knbs.or.ke"]:
-              try:
-                  response = requests.get(
-                      f"https://{host}/",
-                      timeout=20
-                  )
-                  print(host, response.status_code)
-              except requests.RequestException as error:
-                  print(host, type(error).__name__, str(error))
-          PY
       - name: Test importers
-        run: python -m unittest discover -s kenyan-stats/tests -v
+        run: |
+          python -m unittest discover -s kenyan-stats/tests -v
+
       - name: Fetch KNBS inflation
-        run: python kenyan-stats/scripts/update_knbs.py
+        run: |
+          python kenyan-stats/scripts/update_knbs.py
+
       - name: Commit validated data
         run: |
           if git diff --quiet -- kenyan-stats/site/data/inflation.json; then
-            echo 'No new inflation data.'
+            echo "No new inflation data."
           else
-            git config user.name 'github-actions[bot]'
-            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
             git add kenyan-stats/site/data/inflation.json
-            git commit -m 'Refresh official KNBS inflation'
+            git commit -m "Refresh official KNBS inflation"
             git push origin HEAD:main
           fi
