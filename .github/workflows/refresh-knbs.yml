@@ -23,6 +23,10 @@ jobs:
           cache: pip
           cache-dependency-path: kenyan-stats/requirements.txt
       - name: Install dependencies
+      
+      - name: Install Chromium for CPI Explorer
+        run: python -m playwright install --with-deps chromium
+
         run: python -m pip install -r kenyan-stats/requirements.txt
         
       - name: Diagnose KNBS HTTPS certificate
