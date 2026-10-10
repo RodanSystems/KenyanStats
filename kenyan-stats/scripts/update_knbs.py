@@ -183,9 +183,6 @@ def main():
     os.replace(temp, args.output)
     print('Saved KNBS inflation', observation['period'], observation['annual_inflation_pct'])
 
-
-if __name__ == '__main__':
-  
 def fetch_explorer_rendered():
     """Read the official CPI Explorer after JavaScript renders."""
     with sync_playwright() as playwright:
@@ -211,12 +208,12 @@ def fetch_explorer_rendered():
 
             text = page.locator("body").inner_text()
 
-            print(
-                "CPI Explorer rendered text length:",
-                len(text)
-            )
+            print("CPI Explorer rendered text length:", len(text))
 
             return text
         finally:
             browser.close()
+
+
+if __name__ == '__main__':
     main()
