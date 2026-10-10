@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="./assets/styles.css">
     <script defer src="./assets/app.js"></script>
     <script defer src="./assets/cbk.js"></script>
+    <script defer src="./assets/knbs.js"></script>
 </head>
 
 <body>
@@ -43,10 +44,12 @@
             <article class="card">
                 <p class="eyebrow">03 / HOUSEHOLDS</p>
                 <h2>Cost of living</h2>
-                <p>Monthly inflation will appear here once a verified KNBS importer is connected.</p><span
-                    class="badge">Data connection pending</span>
-                <p>Lower inflation usually means prices rise more slowly—not that prices fall.</p><a
-                    href="https://www.knbs.or.ke/" target="_blank" rel="noopener noreferrer">Official source: KNBS ↗</a>
+                <p id="knbs-status" role="status">Loading official KNBS inflation…</p>
+                <p id="knbs-inflation" class="inflation-number">—</p>
+                <p id="knbs-period" class="muted"></p>
+                <dl id="knbs-history"></dl>
+                <p>Lower inflation usually means prices rise more slowly—not that prices fall.</p>
+                <a id="knbs-source" href="https://www.knbs.or.ke/reports_category/cpi-and-inflation-rates/" target="_blank" rel="noopener noreferrer">Official source: KNBS ↗</a>
             </article>
         </section>
         <section class="calculator">

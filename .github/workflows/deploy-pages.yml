@@ -9,6 +9,7 @@ on:
     workflows:
       - "Refresh EPRA Data"
       - "Refresh CBK Exchange Rates"
+      - "Refresh KNBS Inflation"
     types:
       - completed
     branches:

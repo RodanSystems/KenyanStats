@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "Kenya National Bureau of Statistics",
+    "url": "https://www.knbs.or.ke/reports_category/cpi-and-inflation-rates/"
+  },
+  "fetched_at": null,
+  "history": [
+    {
+      "period": "2026-09",
+      "annual_inflation_pct": 6.8,
+      "report_url": "https://www.knbs.or.ke/reports/consumer-price-indices-and-inflation-rates-september-2026/"
+    }
+  ]
+}
