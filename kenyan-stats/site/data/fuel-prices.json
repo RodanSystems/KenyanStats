@@ -5,1791 +5,1831 @@
     "name": "EPRA",
     "url": "https://www.epra.go.ke/pump-prices"
   },
-  "fetched_at": "2026-10-11T11:26:40.720221+00:00",
+  "fetched_at": "2026-10-17T09:27:08.035150+00:00",
   "records": [
     {
       "town": "Ahero",
-      "petrol": 213.69,
-      "diesel": 218.08,
-      "kerosene": 191.63,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.51,
+      "diesel": 227.71,
+      "kerosene": 219.83,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Alale",
-      "petrol": 216.58,
-      "diesel": 221.19,
-      "kerosene": 194.74,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 229.4,
+      "diesel": 230.6,
+      "kerosene": 222.73,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Archers Post",
-      "petrol": 217.79,
-      "diesel": 222.5,
-      "kerosene": 196.04,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 230.6,
+      "diesel": 231.8,
+      "kerosene": 223.93,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Arror",
-      "petrol": 214.88,
-      "diesel": 219.36,
-      "kerosene": 192.91,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.7,
+      "diesel": 228.89,
+      "kerosene": 221.02,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Asembo",
-      "petrol": 213.47,
-      "diesel": 217.86,
-      "kerosene": 191.4,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.29,
+      "diesel": 227.49,
+      "kerosene": 219.62,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Asilong",
-      "petrol": 215.37,
-      "diesel": 219.9,
-      "kerosene": 193.44,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.19,
+      "diesel": 229.39,
+      "kerosene": 221.52,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Awasi",
-      "petrol": 213.29,
-      "diesel": 217.65,
-      "kerosene": 191.2,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.11,
+      "diesel": 227.31,
+      "kerosene": 219.43,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Barwessa",
-      "petrol": 215.1,
-      "diesel": 219.61,
-      "kerosene": 193.15,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.92,
+      "diesel": 229.12,
+      "kerosene": 221.25,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Bomet",
-      "petrol": 215.15,
-      "diesel": 219.65,
-      "kerosene": 193.19,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.97,
+      "diesel": 229.15,
+      "kerosene": 221.28,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Bondo",
-      "petrol": 213.69,
-      "diesel": 218.08,
-      "kerosene": 191.63,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.51,
+      "diesel": 227.71,
+      "kerosene": 219.83,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Bungoma",
-      "petrol": 214.59,
-      "diesel": 219.04,
-      "kerosene": 192.59,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.4,
+      "diesel": 228.6,
+      "kerosene": 220.73,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Burgich",
-      "petrol": 215.96,
-      "diesel": 220.53,
-      "kerosene": 194.07,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.78,
+      "diesel": 229.98,
+      "kerosene": 222.1,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Burnt Forest",
-      "petrol": 213.27,
-      "diesel": 217.64,
-      "kerosene": 191.18,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.1,
+      "diesel": 227.29,
+      "kerosene": 219.41,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Busia",
-      "petrol": 214.75,
-      "diesel": 219.22,
-      "kerosene": 192.77,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.57,
+      "diesel": 228.77,
+      "kerosene": 220.89,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Bute",
-      "petrol": 226.69,
-      "diesel": 231.46,
-      "kerosene": 204.97,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 239.62,
+      "diesel": 240.42,
+      "kerosene": 232.52,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Chebara",
-      "petrol": 213.98,
-      "diesel": 218.4,
-      "kerosene": 191.94,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.8,
+      "diesel": 228.0,
+      "kerosene": 220.13,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Chepareria",
-      "petrol": 215.29,
-      "diesel": 219.81,
-      "kerosene": 193.35,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.12,
+      "diesel": 229.31,
+      "kerosene": 221.43,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Chepkorniswo",
-      "petrol": 215.02,
-      "diesel": 219.52,
-      "kerosene": 193.06,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.84,
+      "diesel": 229.04,
+      "kerosene": 221.16,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Cheptulu",
-      "petrol": 214.04,
-      "diesel": 218.46,
-      "kerosene": 192.0,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.86,
+      "diesel": 228.05,
+      "kerosene": 220.19,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Chuka",
-      "petrol": 216.31,
-      "diesel": 220.32,
-      "kerosene": 193.83,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 229.25,
+      "diesel": 230.05,
+      "kerosene": 222.16,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Chwele",
-      "petrol": 215.02,
-      "diesel": 219.51,
-      "kerosene": 193.06,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.84,
+      "diesel": 229.04,
+      "kerosene": 221.16,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Dadaab",
-      "petrol": 222.63,
-      "diesel": 227.09,
-      "kerosene": 200.61,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 235.56,
+      "diesel": 236.36,
+      "kerosene": 228.46,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Doldo",
-      "petrol": 218.03,
-      "diesel": 222.15,
-      "kerosene": 195.67,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 230.96,
+      "diesel": 231.76,
+      "kerosene": 223.86,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Eldama Ravine",
-      "petrol": 214.69,
-      "diesel": 219.16,
-      "kerosene": 192.7,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.51,
+      "diesel": 228.7,
+      "kerosene": 220.83,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Eldas",
-      "petrol": 231.45,
-      "diesel": 236.57,
-      "kerosene": 210.09,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 244.39,
+      "diesel": 245.18,
+      "kerosene": 237.29,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Eldoret",
-      "petrol": 213.69,
-      "diesel": 218.09,
-      "kerosene": 191.63,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.51,
+      "diesel": 227.71,
+      "kerosene": 219.83,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Elwak",
-      "petrol": 230.94,
-      "diesel": 236.02,
-      "kerosene": 209.53,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 243.87,
+      "diesel": 244.66,
+      "kerosene": 236.77,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Embu",
-      "petrol": 215.46,
-      "diesel": 219.4,
-      "kerosene": 192.91,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.4,
+      "diesel": 229.2,
+      "kerosene": 221.3,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Endebes",
-      "petrol": 214.79,
-      "diesel": 219.28,
-      "kerosene": 192.81,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.61,
+      "diesel": 228.81,
+      "kerosene": 220.94,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
+    },
+    {
+      "town": "Engineer",
+      "petrol": 228.24,
+      "diesel": 229.03,
+      "kerosene": 221.13,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Etago",
-      "petrol": 215.69,
-      "diesel": 220.23,
-      "kerosene": 193.77,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.51,
+      "diesel": 229.69,
+      "kerosene": 221.82,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Funyula",
-      "petrol": 214.52,
-      "diesel": 218.98,
-      "kerosene": 192.51,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.34,
+      "diesel": 228.53,
+      "kerosene": 220.67,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Garissa",
-      "petrol": 220.4,
-      "diesel": 224.7,
-      "kerosene": 198.21,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 233.33,
+      "diesel": 234.13,
+      "kerosene": 226.24,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Garsen",
-      "petrol": 214.33,
-      "diesel": 218.29,
-      "kerosene": 191.81,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.26,
+      "diesel": 228.05,
+      "kerosene": 220.17,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Gilgil",
-      "petrol": 212.52,
-      "diesel": 216.84,
-      "kerosene": 190.38,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 225.33,
+      "diesel": 226.53,
+      "kerosene": 218.66,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Habaswein",
-      "petrol": 224.73,
-      "diesel": 229.36,
-      "kerosene": 202.86,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 237.66,
+      "diesel": 238.46,
+      "kerosene": 230.57,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Hadado",
-      "petrol": 224.41,
-      "diesel": 229.02,
-      "kerosene": 202.53,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 237.35,
+      "diesel": 238.15,
+      "kerosene": 230.26,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Harambee",
-      "petrol": 213.42,
-      "diesel": 217.79,
-      "kerosene": 191.33,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.24,
+      "diesel": 227.43,
+      "kerosene": 219.55,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Hola",
-      "petrol": 216.3,
-      "diesel": 220.41,
-      "kerosene": 193.93,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 229.24,
+      "diesel": 230.04,
+      "kerosene": 222.14,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Homabay",
-      "petrol": 214.66,
-      "diesel": 219.14,
-      "kerosene": 192.68,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.48,
+      "diesel": 228.68,
+      "kerosene": 220.81,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Ikonge",
-      "petrol": 213.94,
-      "diesel": 218.35,
-      "kerosene": 191.89,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.76,
+      "diesel": 227.95,
+      "kerosene": 220.08,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Isebania",
-      "petrol": 216.5,
-      "diesel": 221.1,
-      "kerosene": 194.64,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 229.32,
+      "diesel": 230.51,
+      "kerosene": 222.64,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Isiolo",
-      "petrol": 218.44,
-      "diesel": 222.59,
-      "kerosene": 196.11,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 231.38,
+      "diesel": 232.17,
+      "kerosene": 224.27,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Iten",
-      "petrol": 213.69,
-      "diesel": 218.09,
-      "kerosene": 191.63,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.51,
+      "diesel": 227.71,
+      "kerosene": 219.83,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kabarnet",
-      "petrol": 214.54,
-      "diesel": 219.01,
-      "kerosene": 192.55,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.35,
+      "diesel": 228.55,
+      "kerosene": 220.68,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kabartonjo",
-      "petrol": 214.69,
-      "diesel": 219.16,
-      "kerosene": 192.7,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.51,
+      "diesel": 228.7,
+      "kerosene": 220.83,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kabiyet",
-      "petrol": 213.35,
-      "diesel": 217.73,
-      "kerosene": 191.27,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.17,
+      "diesel": 227.37,
+      "kerosene": 219.5,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kacheliba",
-      "petrol": 215.6,
-      "diesel": 220.15,
-      "kerosene": 193.69,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.42,
+      "diesel": 229.62,
+      "kerosene": 221.75,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kachibora",
-      "petrol": 213.98,
-      "diesel": 218.4,
-      "kerosene": 191.94,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.8,
+      "diesel": 228.0,
+      "kerosene": 220.13,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kaibichbich",
-      "petrol": 214.94,
-      "diesel": 219.43,
-      "kerosene": 192.97,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.76,
+      "diesel": 228.95,
+      "kerosene": 221.08,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kaiboi",
-      "petrol": 213.44,
-      "diesel": 217.82,
-      "kerosene": 191.35,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.26,
+      "diesel": 227.46,
+      "kerosene": 219.59,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kainuk",
-      "petrol": 216.69,
-      "diesel": 221.31,
-      "kerosene": 194.85,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 229.51,
+      "diesel": 230.7,
+      "kerosene": 222.83,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kajiado",
-      "petrol": 214.36,
-      "diesel": 218.22,
-      "kerosene": 191.73,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.3,
+      "diesel": 228.1,
+      "kerosene": 220.2,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kakamega",
-      "petrol": 213.43,
-      "diesel": 217.8,
-      "kerosene": 191.35,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.25,
+      "diesel": 227.45,
+      "kerosene": 219.57,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kakuma",
-      "petrol": 222.64,
-      "diesel": 227.7,
-      "kerosene": 201.25,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 235.46,
+      "diesel": 236.66,
+      "kerosene": 228.79,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kalacha",
-      "petrol": 226.52,
-      "diesel": 231.28,
-      "kerosene": 204.79,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 239.46,
+      "diesel": 240.26,
+      "kerosene": 232.36,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kalemngorok",
-      "petrol": 217.44,
-      "diesel": 222.11,
-      "kerosene": 195.66,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 230.26,
+      "diesel": 231.45,
+      "kerosene": 223.58,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kalokol",
-      "petrol": 221.31,
-      "diesel": 226.27,
-      "kerosene": 199.81,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 234.13,
+      "diesel": 235.32,
+      "kerosene": 227.45,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kaloleni",
-      "petrol": 210.78,
-      "diesel": 214.49,
-      "kerosene": 188.0,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 223.72,
+      "diesel": 224.52,
+      "kerosene": 216.63,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kapcherop",
-      "petrol": 214.34,
-      "diesel": 218.78,
-      "kerosene": 192.32,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.16,
+      "diesel": 228.34,
+      "kerosene": 220.48,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kapedo",
-      "petrol": 217.89,
-      "diesel": 222.61,
-      "kerosene": 196.14,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 230.72,
+      "diesel": 231.91,
+      "kerosene": 224.04,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kapenguria",
-      "petrol": 214.96,
-      "diesel": 219.45,
-      "kerosene": 192.99,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.78,
+      "diesel": 228.97,
+      "kerosene": 221.1,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kapese",
-      "petrol": 218.42,
-      "diesel": 223.16,
-      "kerosene": 196.7,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 231.24,
+      "diesel": 232.43,
+      "kerosene": 224.55,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kaplamai",
-      "petrol": 214.02,
-      "diesel": 218.44,
-      "kerosene": 191.98,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.84,
+      "diesel": 228.03,
+      "kerosene": 220.17,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kapsabet",
-      "petrol": 213.38,
-      "diesel": 217.76,
-      "kerosene": 191.3,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.2,
+      "diesel": 227.39,
+      "kerosene": 219.52,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kapsowar",
-      "petrol": 214.16,
-      "diesel": 218.6,
-      "kerosene": 192.14,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.98,
+      "diesel": 228.18,
+      "kerosene": 220.31,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kaptarakwa",
-      "petrol": 213.67,
-      "diesel": 218.07,
-      "kerosene": 191.61,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.49,
+      "diesel": 227.69,
+      "kerosene": 219.81,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kaspokwony",
-      "petrol": 215.1,
-      "diesel": 219.6,
-      "kerosene": 193.14,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.92,
+      "diesel": 229.11,
+      "kerosene": 221.25,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kehancha",
-      "petrol": 216.64,
-      "diesel": 221.26,
-      "kerosene": 194.8,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 229.46,
+      "diesel": 230.66,
+      "kerosene": 222.78,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kericho",
-      "petrol": 214.16,
-      "diesel": 218.6,
-      "kerosene": 192.14,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.98,
+      "diesel": 228.18,
+      "kerosene": 220.31,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kerina",
-      "petrol": 214.97,
-      "diesel": 219.47,
-      "kerosene": 193.01,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.79,
+      "diesel": 228.99,
+      "kerosene": 221.12,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Keringet",
-      "petrol": 214.5,
-      "diesel": 218.96,
-      "kerosene": 192.5,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.32,
+      "diesel": 228.52,
+      "kerosene": 220.64,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Keroka",
-      "petrol": 214.79,
-      "diesel": 219.27,
-      "kerosene": 192.8,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.61,
+      "diesel": 228.8,
+      "kerosene": 220.94,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kerugoya",
-      "petrol": 215.34,
-      "diesel": 219.27,
-      "kerosene": 192.78,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.28,
+      "diesel": 229.07,
+      "kerosene": 221.17,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kesses",
-      "petrol": 213.69,
-      "diesel": 218.09,
-      "kerosene": 191.63,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.51,
+      "diesel": 227.71,
+      "kerosene": 219.83,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Keumbu",
-      "petrol": 214.87,
-      "diesel": 219.36,
-      "kerosene": 192.9,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.7,
+      "diesel": 228.88,
+      "kerosene": 221.01,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kibish",
-      "petrol": 226.33,
-      "diesel": 231.66,
-      "kerosene": 205.2,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 239.14,
+      "diesel": 240.34,
+      "kerosene": 232.47,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kiganjo",
-      "petrol": 215.84,
-      "diesel": 219.8,
-      "kerosene": 193.31,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.78,
+      "diesel": 229.57,
+      "kerosene": 221.67,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kilgoris",
-      "petrol": 215.58,
-      "diesel": 220.11,
-      "kerosene": 193.66,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.4,
+      "diesel": 229.6,
+      "kerosene": 221.72,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kilifi",
-      "petrol": 211.68,
-      "diesel": 215.45,
-      "kerosene": 188.96,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 224.62,
+      "diesel": 225.42,
+      "kerosene": 217.52,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kimilili",
-      "petrol": 214.89,
-      "diesel": 219.38,
-      "kerosene": 192.92,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.72,
+      "diesel": 228.91,
+      "kerosene": 221.03,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kiminini",
-      "petrol": 214.23,
-      "diesel": 218.67,
-      "kerosene": 192.21,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.05,
+      "diesel": 228.25,
+      "kerosene": 220.37,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kimwarer",
-      "petrol": 213.85,
-      "diesel": 218.27,
-      "kerosene": 191.81,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.68,
+      "diesel": 227.87,
+      "kerosene": 220.0,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
+    },
+    {
+      "town": "Kipipiri",
+      "petrol": 225.75,
+      "diesel": 226.95,
+      "kerosene": 219.08,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kiplombe",
-      "petrol": 213.69,
-      "diesel": 218.09,
-      "kerosene": 191.63,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.51,
+      "diesel": 227.71,
+      "kerosene": 219.83,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kipsaraman",
-      "petrol": 216.56,
-      "diesel": 221.18,
-      "kerosene": 194.72,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 229.38,
+      "diesel": 230.58,
+      "kerosene": 222.71,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kisii",
-      "petrol": 214.77,
-      "diesel": 219.24,
-      "kerosene": 192.78,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.59,
+      "diesel": 228.78,
+      "kerosene": 220.91,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kisumu",
-      "petrol": 213.69,
-      "diesel": 218.08,
-      "kerosene": 191.63,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.51,
+      "diesel": 227.71,
+      "kerosene": 219.83,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kitale",
-      "petrol": 213.94,
-      "diesel": 218.36,
-      "kerosene": 191.9,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.76,
+      "diesel": 227.96,
+      "kerosene": 220.08,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kitui",
-      "petrol": 216.15,
-      "diesel": 220.14,
-      "kerosene": 193.65,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 229.09,
+      "diesel": 229.88,
+      "kerosene": 221.98,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kiwawa",
-      "petrol": 216.58,
-      "diesel": 221.19,
-      "kerosene": 194.74,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 229.4,
+      "diesel": 230.6,
+      "kerosene": 222.73,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kobujoi",
-      "petrol": 214.11,
-      "diesel": 218.53,
-      "kerosene": 192.07,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.93,
+      "diesel": 228.12,
+      "kerosene": 220.24,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Korr",
-      "petrol": 223.33,
-      "diesel": 227.86,
-      "kerosene": 201.36,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 236.27,
+      "diesel": 237.07,
+      "kerosene": 229.18,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kunyao",
-      "petrol": 216.04,
-      "diesel": 220.61,
-      "kerosene": 194.15,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.86,
+      "diesel": 230.06,
+      "kerosene": 222.19,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kwale",
-      "petrol": 211.23,
-      "diesel": 214.96,
-      "kerosene": 188.48,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 224.16,
+      "diesel": 224.96,
+      "kerosene": 217.07,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Kwanza",
-      "petrol": 215.13,
-      "diesel": 219.63,
-      "kerosene": 193.17,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.94,
+      "diesel": 229.14,
+      "kerosene": 221.27,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Laisamis",
-      "petrol": 221.81,
-      "diesel": 226.22,
-      "kerosene": 199.73,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 234.75,
+      "diesel": 235.55,
+      "kerosene": 227.65,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Lamu",
-      "petrol": 215.84,
-      "diesel": 219.93,
-      "kerosene": 193.44,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.79,
+      "diesel": 229.58,
+      "kerosene": 221.68,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Lamuria",
-      "petrol": 216.61,
-      "diesel": 220.63,
-      "kerosene": 194.14,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 229.54,
+      "diesel": 230.34,
+      "kerosene": 222.45,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Liboi",
-      "petrol": 224.86,
-      "diesel": 229.48,
-      "kerosene": 203.0,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 237.79,
+      "diesel": 238.58,
+      "kerosene": 230.69,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Likoni Mainland",
-      "petrol": 211.23,
-      "diesel": 214.96,
-      "kerosene": 188.48,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 224.16,
+      "diesel": 224.96,
+      "kerosene": 217.07,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Lodosoit",
-      "petrol": 219.56,
-      "diesel": 224.4,
-      "kerosene": 197.94,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 232.37,
+      "diesel": 233.57,
+      "kerosene": 225.7,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Lodwar",
-      "petrol": 220.08,
-      "diesel": 224.95,
-      "kerosene": 198.5,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 232.9,
+      "diesel": 234.1,
+      "kerosene": 226.23,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Loima",
-      "petrol": 218.67,
-      "diesel": 223.43,
-      "kerosene": 196.97,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 231.49,
+      "diesel": 232.68,
+      "kerosene": 224.81,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Lokichar",
-      "petrol": 218.47,
-      "diesel": 223.23,
-      "kerosene": 196.77,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 231.3,
+      "diesel": 232.49,
+      "kerosene": 224.62,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Lokichogio",
-      "petrol": 224.55,
-      "diesel": 229.76,
-      "kerosene": 203.3,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 237.38,
+      "diesel": 238.57,
+      "kerosene": 230.7,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Lokiriama",
-      "petrol": 221.18,
-      "diesel": 226.14,
-      "kerosene": 199.68,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 234.0,
+      "diesel": 235.2,
+      "kerosene": 227.33,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Lokitaung",
-      "petrol": 225.96,
-      "diesel": 231.26,
-      "kerosene": 204.8,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 238.78,
+      "diesel": 239.97,
+      "kerosene": 232.09,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Lokori",
-      "petrol": 219.06,
-      "diesel": 223.86,
-      "kerosene": 197.4,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 231.89,
+      "diesel": 233.07,
+      "kerosene": 225.2,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Lomut",
-      "petrol": 217.89,
-      "diesel": 222.61,
-      "kerosene": 196.14,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 230.72,
+      "diesel": 231.91,
+      "kerosene": 224.04,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Londiani",
-      "petrol": 213.01,
-      "diesel": 217.35,
-      "kerosene": 190.89,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 225.82,
+      "diesel": 227.01,
+      "kerosene": 219.13,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Loruk",
-      "petrol": 216.36,
-      "diesel": 220.95,
-      "kerosene": 194.49,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 229.18,
+      "diesel": 230.36,
+      "kerosene": 222.5,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Loyangalani",
-      "petrol": 226.63,
-      "diesel": 231.39,
-      "kerosene": 204.9,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 239.57,
+      "diesel": 240.35,
+      "kerosene": 232.46,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Lugari",
-      "petrol": 214.56,
-      "diesel": 219.02,
-      "kerosene": 192.56,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.38,
+      "diesel": 228.57,
+      "kerosene": 220.7,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Lungalunga",
-      "petrol": 212.04,
-      "diesel": 215.83,
-      "kerosene": 189.35,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 224.97,
+      "diesel": 225.77,
+      "kerosene": 217.88,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Machakos",
-      "petrol": 214.07,
-      "diesel": 217.91,
-      "kerosene": 191.41,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.01,
+      "diesel": 227.8,
+      "kerosene": 219.91,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Magenche",
-      "petrol": 215.85,
-      "diesel": 220.41,
-      "kerosene": 193.95,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.67,
+      "diesel": 229.87,
+      "kerosene": 221.99,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
+    },
+    {
+      "town": "Magumu",
+      "petrol": 227.36,
+      "diesel": 228.15,
+      "kerosene": 220.26,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Mai Mahiu",
-      "petrol": 213.88,
-      "diesel": 217.7,
-      "kerosene": 191.21,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.82,
+      "diesel": 227.61,
+      "kerosene": 219.72,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Maikona",
-      "petrol": 225.64,
-      "diesel": 230.34,
-      "kerosene": 203.85,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 238.58,
+      "diesel": 239.38,
+      "kerosene": 231.49,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Makuyu",
-      "petrol": 214.15,
-      "diesel": 217.99,
-      "kerosene": 191.5,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.09,
+      "diesel": 227.88,
+      "kerosene": 219.99,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Malaba",
-      "petrol": 215.23,
-      "diesel": 219.74,
-      "kerosene": 193.28,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.05,
+      "diesel": 229.24,
+      "kerosene": 221.37,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Malava",
-      "petrol": 213.94,
-      "diesel": 218.35,
-      "kerosene": 191.89,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.76,
+      "diesel": 227.95,
+      "kerosene": 220.08,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Malindi",
-      "petrol": 212.01,
-      "diesel": 215.81,
-      "kerosene": 189.32,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 224.95,
+      "diesel": 225.74,
+      "kerosene": 217.86,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Mandera",
-      "petrol": 234.68,
-      "diesel": 240.04,
-      "kerosene": 213.56,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 247.62,
+      "diesel": 248.41,
+      "kerosene": 240.52,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Maralal",
-      "petrol": 216.29,
-      "diesel": 220.89,
-      "kerosene": 194.43,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 229.1,
+      "diesel": 230.3,
+      "kerosene": 222.43,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Marani",
-      "petrol": 214.39,
-      "diesel": 218.85,
-      "kerosene": 192.39,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.21,
+      "diesel": 228.41,
+      "kerosene": 220.54,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Marereni",
-      "petrol": 213.07,
-      "diesel": 216.95,
-      "kerosene": 190.46,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.01,
+      "diesel": 226.81,
+      "kerosene": 218.92,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Marich",
-      "petrol": 215.79,
-      "diesel": 220.34,
-      "kerosene": 193.88,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.61,
+      "diesel": 229.8,
+      "kerosene": 221.94,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Marigat",
-      "petrol": 213.75,
-      "diesel": 218.16,
-      "kerosene": 191.7,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.56,
+      "diesel": 227.76,
+      "kerosene": 219.89,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Marimanti",
-      "petrol": 217.4,
-      "diesel": 221.48,
-      "kerosene": 195.0,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 230.33,
+      "diesel": 231.13,
+      "kerosene": 223.24,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Marsabit",
-      "petrol": 226.34,
-      "diesel": 231.07,
-      "kerosene": 204.59,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 239.27,
+      "diesel": 240.06,
+      "kerosene": 232.17,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Matunda",
-      "petrol": 213.33,
-      "diesel": 217.71,
-      "kerosene": 191.25,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.15,
+      "diesel": 227.35,
+      "kerosene": 219.48,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Matuu",
-      "petrol": 215.14,
-      "diesel": 219.04,
-      "kerosene": 192.56,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.06,
+      "diesel": 228.86,
+      "kerosene": 220.97,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Maua",
-      "petrol": 219.4,
-      "diesel": 223.63,
-      "kerosene": 197.14,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 232.34,
+      "diesel": 233.13,
+      "kerosene": 225.23,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Mbale",
-      "petrol": 213.69,
-      "diesel": 218.08,
-      "kerosene": 191.63,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.51,
+      "diesel": 227.71,
+      "kerosene": 219.83,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Mbita",
-      "petrol": 214.64,
-      "diesel": 219.11,
-      "kerosene": 192.65,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.46,
+      "diesel": 228.66,
+      "kerosene": 220.78,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Merille",
-      "petrol": 221.34,
-      "diesel": 225.7,
-      "kerosene": 199.22,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 234.27,
+      "diesel": 235.06,
+      "kerosene": 227.17,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Merti",
-      "petrol": 222.3,
-      "diesel": 226.74,
-      "kerosene": 200.25,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 235.22,
+      "diesel": 236.02,
+      "kerosene": 228.13,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Meru",
-      "petrol": 218.67,
-      "diesel": 222.85,
-      "kerosene": 196.35,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 231.61,
+      "diesel": 232.4,
+      "kerosene": 224.51,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Migori",
-      "petrol": 216.03,
-      "diesel": 220.61,
-      "kerosene": 194.15,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.86,
+      "diesel": 230.05,
+      "kerosene": 222.18,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Minjila",
-      "petrol": 214.17,
-      "diesel": 218.13,
-      "kerosene": 191.65,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.11,
+      "diesel": 227.91,
+      "kerosene": 220.02,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Modogashe",
-      "petrol": 224.96,
-      "diesel": 229.6,
-      "kerosene": 203.12,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 237.89,
+      "diesel": 238.69,
+      "kerosene": 230.8,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Mogotio",
-      "petrol": 212.5,
-      "diesel": 216.82,
-      "kerosene": 190.36,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 225.31,
+      "diesel": 226.51,
+      "kerosene": 218.64,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Moi's Bridge",
-      "petrol": 213.46,
-      "diesel": 217.84,
-      "kerosene": 191.38,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.28,
+      "diesel": 227.47,
+      "kerosene": 219.61,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Moiben",
-      "petrol": 213.38,
-      "diesel": 217.76,
-      "kerosene": 191.3,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.2,
+      "diesel": 227.39,
+      "kerosene": 219.52,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Molo",
-      "petrol": 212.65,
-      "diesel": 216.97,
-      "kerosene": 190.51,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
-    },
-    {
-      "town": "Mombasa",
-      "petrol": 210.87,
-      "diesel": 214.58,
-      "kerosene": 188.09,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 225.46,
+      "diesel": 226.65,
+      "kerosene": 218.78,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Morpus",
-      "petrol": 215.21,
-      "diesel": 219.72,
-      "kerosene": 193.26,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.03,
+      "diesel": 229.22,
+      "kerosene": 221.36,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Moyale",
-      "petrol": 228.87,
-      "diesel": 233.8,
-      "kerosene": 207.32,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 241.81,
+      "diesel": 242.6,
+      "kerosene": 234.71,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Mpeketoni",
-      "petrol": 215.84,
-      "diesel": 219.93,
-      "kerosene": 193.44,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.79,
+      "diesel": 229.58,
+      "kerosene": 221.68,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Mtito Andei",
-      "petrol": 217.61,
-      "diesel": 221.7,
-      "kerosene": 195.22,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 230.55,
+      "diesel": 231.34,
+      "kerosene": 223.44,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Muhoroni",
-      "petrol": 213.72,
-      "diesel": 218.12,
-      "kerosene": 191.66,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.54,
+      "diesel": 227.73,
+      "kerosene": 219.86,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Muhuru Bay",
-      "petrol": 216.27,
-      "diesel": 220.85,
-      "kerosene": 194.39,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 229.09,
+      "diesel": 230.28,
+      "kerosene": 222.4,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Mumias",
-      "petrol": 213.87,
-      "diesel": 218.28,
-      "kerosene": 191.83,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.69,
+      "diesel": 227.89,
+      "kerosene": 220.02,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Muranga",
-      "petrol": 214.53,
-      "diesel": 218.39,
-      "kerosene": 191.91,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.46,
+      "diesel": 228.26,
+      "kerosene": 220.36,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Mutuobare",
-      "petrol": 216.34,
-      "diesel": 220.34,
-      "kerosene": 193.85,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 229.27,
+      "diesel": 230.07,
+      "kerosene": 222.18,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Mwatate",
-      "petrol": 213.45,
-      "diesel": 217.35,
-      "kerosene": 190.87,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.39,
+      "diesel": 227.18,
+      "kerosene": 219.29,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Mwingi",
-      "petrol": 216.78,
-      "diesel": 220.81,
-      "kerosene": 194.32,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 229.72,
+      "diesel": 230.5,
+      "kerosene": 222.61,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Naiberi",
-      "petrol": 213.69,
-      "diesel": 218.09,
-      "kerosene": 191.63,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.51,
+      "diesel": 227.71,
+      "kerosene": 219.83,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Nairobi",
-      "petrol": 214.03,
-      "diesel": 217.86,
-      "kerosene": 191.38,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.96,
+      "diesel": 227.76,
+      "kerosene": 219.87,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Naivasha",
-      "petrol": 213.11,
-      "diesel": 217.47,
-      "kerosene": 191.01,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 225.91,
+      "diesel": 227.11,
+      "kerosene": 219.24,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Nakalale",
-      "petrol": 224.43,
-      "diesel": 229.62,
-      "kerosene": 203.16,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 237.25,
+      "diesel": 238.44,
+      "kerosene": 230.58,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Nakuru",
-      "petrol": 212.92,
-      "diesel": 217.27,
-      "kerosene": 190.81,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 225.73,
+      "diesel": 226.93,
+      "kerosene": 219.06,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Namanga",
-      "petrol": 216.17,
-      "diesel": 220.16,
-      "kerosene": 193.67,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 229.11,
+      "diesel": 229.9,
+      "kerosene": 222.01,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Nambale",
-      "petrol": 214.75,
-      "diesel": 219.22,
-      "kerosene": 192.77,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.57,
+      "diesel": 228.77,
+      "kerosene": 220.89,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Nandi Hills",
-      "petrol": 213.67,
-      "diesel": 218.07,
-      "kerosene": 191.61,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.49,
+      "diesel": 227.69,
+      "kerosene": 219.81,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Nanyuki",
-      "petrol": 216.8,
-      "diesel": 220.83,
-      "kerosene": 194.35,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 229.74,
+      "diesel": 230.53,
+      "kerosene": 222.63,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Narok",
-      "petrol": 215.92,
-      "diesel": 219.89,
-      "kerosene": 193.41,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.86,
+      "diesel": 229.65,
+      "kerosene": 221.76,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
+    },
+    {
+      "town": "Ndaragwa",
+      "petrol": 226.29,
+      "diesel": 227.49,
+      "kerosene": 219.62,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Ndhiwa",
-      "petrol": 215.2,
-      "diesel": 219.72,
-      "kerosene": 193.26,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.02,
+      "diesel": 229.22,
+      "kerosene": 221.35,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
+    },
+    {
+      "town": "Njambini",
+      "petrol": 227.9,
+      "diesel": 228.7,
+      "kerosene": 220.8,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Nkubu",
-      "petrol": 218.35,
-      "diesel": 222.51,
-      "kerosene": 196.02,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 231.29,
+      "diesel": 232.09,
+      "kerosene": 224.2,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "North Horr",
-      "petrol": 227.88,
-      "diesel": 232.73,
-      "kerosene": 206.24,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 240.81,
+      "diesel": 241.61,
+      "kerosene": 233.71,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Ntimaru",
-      "petrol": 217.14,
-      "diesel": 221.79,
-      "kerosene": 195.33,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 229.96,
+      "diesel": 231.15,
+      "kerosene": 223.28,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Nyahururu",
-      "petrol": 212.99,
-      "diesel": 217.33,
-      "kerosene": 190.88,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 225.8,
+      "diesel": 226.98,
+      "kerosene": 219.12,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Nyamira",
-      "petrol": 214.27,
-      "diesel": 218.71,
-      "kerosene": 192.25,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.09,
+      "diesel": 228.28,
+      "kerosene": 220.41,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Nyangusu",
-      "petrol": 215.44,
-      "diesel": 219.96,
-      "kerosene": 193.5,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.26,
+      "diesel": 229.45,
+      "kerosene": 221.57,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Nyansiongo",
-      "petrol": 214.57,
-      "diesel": 219.04,
-      "kerosene": 192.58,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.4,
+      "diesel": 228.59,
+      "kerosene": 220.72,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Nyeri",
-      "petrol": 215.9,
-      "diesel": 219.87,
-      "kerosene": 193.38,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.84,
+      "diesel": 229.63,
+      "kerosene": 221.74,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "O'lessos",
-      "petrol": 213.46,
-      "diesel": 217.84,
-      "kerosene": 191.38,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.28,
+      "diesel": 227.47,
+      "kerosene": 219.61,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Ogembo",
-      "petrol": 215.02,
-      "diesel": 219.51,
-      "kerosene": 193.06,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.84,
+      "diesel": 229.04,
+      "kerosene": 221.16,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Oldonyiro",
-      "petrol": 217.48,
-      "diesel": 221.57,
-      "kerosene": 195.08,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 230.42,
+      "diesel": 231.22,
+      "kerosene": 223.32,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Olenguruone",
-      "petrol": 213.78,
-      "diesel": 218.19,
-      "kerosene": 191.72,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.58,
+      "diesel": 227.78,
+      "kerosene": 219.91,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
+    },
+    {
+      "town": "Olkalou",
+      "petrol": 225.33,
+      "diesel": 226.53,
+      "kerosene": 218.66,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Orolwo",
-      "petrol": 215.44,
-      "diesel": 219.96,
-      "kerosene": 193.51,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.26,
+      "diesel": 229.46,
+      "kerosene": 221.58,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Ortum",
-      "petrol": 215.91,
-      "diesel": 220.48,
-      "kerosene": 194.02,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.73,
+      "diesel": 229.93,
+      "kerosene": 222.06,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Oyugis",
-      "petrol": 214.29,
-      "diesel": 218.73,
-      "kerosene": 192.27,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.11,
+      "diesel": 228.3,
+      "kerosene": 220.44,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Port Bunyala",
-      "petrol": 214.81,
-      "diesel": 219.29,
-      "kerosene": 192.83,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.63,
+      "diesel": 228.82,
+      "kerosene": 220.96,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Rangwe",
-      "petrol": 214.75,
-      "diesel": 219.22,
-      "kerosene": 192.77,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.57,
+      "diesel": 228.77,
+      "kerosene": 220.89,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Rodi Kopany",
-      "petrol": 214.77,
-      "diesel": 219.24,
-      "kerosene": 192.78,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.59,
+      "diesel": 228.78,
+      "kerosene": 220.91,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Rongo",
-      "petrol": 215.16,
-      "diesel": 219.67,
-      "kerosene": 193.21,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.99,
+      "diesel": 229.18,
+      "kerosene": 221.3,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Rumuruti",
-      "petrol": 213.86,
-      "diesel": 218.28,
-      "kerosene": 191.82,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.67,
+      "diesel": 227.87,
+      "kerosene": 220.0,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Saboti",
-      "petrol": 214.27,
-      "diesel": 218.71,
-      "kerosene": 192.26,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.09,
+      "diesel": 228.29,
+      "kerosene": 220.42,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Sagana",
-      "petrol": 214.88,
-      "diesel": 218.78,
-      "kerosene": 192.28,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.82,
+      "diesel": 228.61,
+      "kerosene": 220.72,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Sambalat",
-      "petrol": 215.44,
-      "diesel": 219.96,
-      "kerosene": 193.51,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.26,
+      "diesel": 229.46,
+      "kerosene": 221.58,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Samburu",
-      "petrol": 211.01,
-      "diesel": 214.73,
-      "kerosene": 188.26,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 223.95,
+      "diesel": 224.75,
+      "kerosene": 216.85,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Sebit",
-      "petrol": 215.35,
-      "diesel": 219.88,
-      "kerosene": 193.42,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.17,
+      "diesel": 229.37,
+      "kerosene": 221.5,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Sengera",
-      "petrol": 215.31,
-      "diesel": 219.82,
-      "kerosene": 193.37,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.13,
+      "diesel": 229.33,
+      "kerosene": 221.45,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Serem",
-      "petrol": 214.23,
-      "diesel": 218.67,
-      "kerosene": 192.21,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.05,
+      "diesel": 228.25,
+      "kerosene": 220.37,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Siaya",
-      "petrol": 213.88,
-      "diesel": 218.3,
-      "kerosene": 191.84,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.7,
+      "diesel": 227.9,
+      "kerosene": 220.03,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Sigor",
-      "petrol": 216.16,
-      "diesel": 220.75,
-      "kerosene": 194.29,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.99,
+      "diesel": 230.18,
+      "kerosene": 222.31,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Sindo",
-      "petrol": 214.77,
-      "diesel": 219.24,
-      "kerosene": 192.78,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.59,
+      "diesel": 228.78,
+      "kerosene": 220.91,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "SioPort",
-      "petrol": 214.73,
-      "diesel": 219.2,
-      "kerosene": 192.74,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.55,
+      "diesel": 228.74,
+      "kerosene": 220.87,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Sipili",
-      "petrol": 218.01,
-      "diesel": 222.13,
-      "kerosene": 195.64,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 230.94,
+      "diesel": 231.74,
+      "kerosene": 223.84,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Sololo",
-      "petrol": 227.35,
-      "diesel": 232.18,
-      "kerosene": 205.68,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 240.29,
+      "diesel": 241.09,
+      "kerosene": 233.19,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Sondu",
-      "petrol": 213.52,
-      "diesel": 217.9,
-      "kerosene": 191.44,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.34,
+      "diesel": 227.52,
+      "kerosene": 219.66,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Songor",
-      "petrol": 214.92,
-      "diesel": 219.4,
-      "kerosene": 192.94,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.74,
+      "diesel": 228.93,
+      "kerosene": 221.06,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Sotik",
-      "petrol": 214.49,
-      "diesel": 218.95,
-      "kerosene": 192.49,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.32,
+      "diesel": 228.51,
+      "kerosene": 220.63,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Soy",
-      "petrol": 213.35,
-      "diesel": 217.73,
-      "kerosene": 191.27,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.17,
+      "diesel": 227.37,
+      "kerosene": 219.5,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Tambach",
-      "petrol": 213.42,
-      "diesel": 217.79,
-      "kerosene": 191.34,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.24,
+      "diesel": 227.44,
+      "kerosene": 219.56,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Tarbaj",
-      "petrol": 228.36,
-      "diesel": 233.24,
-      "kerosene": 206.76,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 241.29,
+      "diesel": 242.08,
+      "kerosene": 234.19,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Taru",
-      "petrol": 211.3,
-      "diesel": 215.04,
-      "kerosene": 188.57,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 224.24,
+      "diesel": 225.04,
+      "kerosene": 217.14,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Taveta",
-      "petrol": 215.18,
-      "diesel": 219.21,
-      "kerosene": 192.72,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.12,
+      "diesel": 228.91,
+      "kerosene": 221.02,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Tenges",
-      "petrol": 214.92,
-      "diesel": 219.4,
-      "kerosene": 192.94,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.74,
+      "diesel": 228.93,
+      "kerosene": 221.06,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Thika",
-      "petrol": 213.7,
-      "diesel": 217.5,
-      "kerosene": 191.02,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.63,
+      "diesel": 227.43,
+      "kerosene": 219.53,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Timboroa",
-      "petrol": 213.73,
-      "diesel": 218.13,
-      "kerosene": 191.67,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.55,
+      "diesel": 227.75,
+      "kerosene": 219.88,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Tindiret",
-      "petrol": 214.79,
-      "diesel": 219.28,
-      "kerosene": 192.81,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.61,
+      "diesel": 228.81,
+      "kerosene": 220.94,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Tot",
-      "petrol": 215.21,
-      "diesel": 219.72,
-      "kerosene": 193.26,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 228.03,
+      "diesel": 229.22,
+      "kerosene": 221.36,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Turbi",
-      "petrol": 226.31,
-      "diesel": 231.05,
-      "kerosene": 204.57,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 239.25,
+      "diesel": 240.04,
+      "kerosene": 232.15,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Turbo",
-      "petrol": 213.27,
-      "diesel": 217.64,
-      "kerosene": 191.18,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.1,
+      "diesel": 227.29,
+      "kerosene": 219.41,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Ugunja",
-      "petrol": 214.03,
-      "diesel": 218.46,
-      "kerosene": 192.0,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.85,
+      "diesel": 228.05,
+      "kerosene": 220.18,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Usenge",
-      "petrol": 214.25,
-      "diesel": 218.68,
-      "kerosene": 192.22,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 227.07,
+      "diesel": 228.26,
+      "kerosene": 220.39,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Voi",
-      "petrol": 212.91,
-      "diesel": 216.77,
-      "kerosene": 190.29,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 225.85,
+      "diesel": 226.64,
+      "kerosene": 218.74,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Wajir",
-      "petrol": 228.6,
-      "diesel": 233.51,
-      "kerosene": 207.03,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 241.54,
+      "diesel": 242.33,
+      "kerosene": 234.44,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Wamba",
-      "petrol": 217.65,
-      "diesel": 222.34,
-      "kerosene": 195.88,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 230.46,
+      "diesel": 231.65,
+      "kerosene": 223.78,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Webuye",
-      "petrol": 214.04,
-      "diesel": 218.46,
-      "kerosene": 192.0,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.86,
+      "diesel": 228.05,
+      "kerosene": 220.19,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Wundanji",
-      "petrol": 213.72,
-      "diesel": 217.64,
-      "kerosene": 191.16,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.66,
+      "diesel": 227.45,
+      "kerosene": 219.56,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     },
     {
       "town": "Ziwa",
-      "petrol": 213.67,
-      "diesel": 218.07,
-      "kerosene": 191.61,
-      "valid_from": "2026-09-15",
-      "valid_to": "2026-10-14"
+      "petrol": 226.49,
+      "diesel": 227.69,
+      "kerosene": 219.81,
+      "valid_from": "2026-10-15",
+      "valid_to": "2026-11-14"
     }
   ]
 }
