@@ -4,11 +4,11 @@
     "name": "Central Bank of Kenya",
     "url": "https://www.centralbank.go.ke/forex/"
   },
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "rates": {
-    "USD": 129.91,
-    "GBP": 173.92,
-    "EUR": 145.83
+    "USD": 129.89,
+    "GBP": 173.58,
+    "EUR": 145.34
   },
-  "fetched_at": "2026-10-22T10:25:03.266132+00:00"
+  "fetched_at": "2026-10-23T10:21:52.804851+00:00"
 }
